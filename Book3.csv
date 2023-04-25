@@ -1,0 +1,277 @@
+﻿user,gender,age,disability,disability_type,mental_illness,illness_type,activity,rating
+1,Female,18,no,,yes,depression,Board games,3
+1,Female,18,no,,yes,depression,Cooking,4
+1,Female,18,no,,yes,depression,Walking,5
+1,Female,18,no,,yes,depression,Reading,4
+1,Female,18,no,,yes,depression,Puzzles,3
+1,Female,18,no,,yes,depression,Craft,4
+1,Female,18,no,,yes,depression,Running,5
+1,Female,18,no,,yes,depression,Basketball,4
+1,Female,18,no,,yes,depression,Football,4
+1,Female,18,no,,yes,depression,Volleyball,4
+1,Female,18,no,,yes,depression,Cricket,3
+1,Female,18,no,,yes,depression,Hockey,3
+1,Female,18,no,,yes,depression,Badminton,4
+1,Female,18,no,,yes,depression,Tennis,4
+1,Female,18,no,,yes,depression,Table Tennis,4
+1,Female,18,no,,yes,depression,Attend Workshops or Conference,3
+1,Female,18,no,,yes,depression,Woodworking Class,4
+1,Female,18,no,,yes,depression,Pottery Class,5
+1,Female,18,no,,yes,depression,Movie,3
+1,Female,18,no,,yes,depression,Game night,3
+1,Female,18,no,,yes,depression,Dance,4
+1,Female,18,no,,yes,depression,Music,5
+1,Female,18,no,,yes,depression,Yoga and Acrobatics,5
+1,Female,18,no,,yes,depression,Community Gardening,5
+2,Male,45,no,,no,,Board games,4
+2,Male,45,no,,no,,Cooking,3
+2,Male,45,no,,no,,Walking,3
+2,Male,45,no,,no,,Reading,3
+2,Male,45,no,,no,,Puzzles,2
+2,Male,45,no,,no,,Craft,2
+2,Male,45,no,,no,,Running,5
+2,Male,45,no,,no,,Basketball,5
+2,Male,45,no,,no,,Football,4
+2,Male,45,no,,no,,Volleyball,5
+2,Male,45,no,,no,,Cricket,4
+2,Male,45,no,,no,,Hockey,4
+2,Male,45,no,,no,,Badminton,4
+2,Male,45,no,,no,,Tennis,5
+2,Male,45,no,,no,,Table Tennis,5
+2,Male,45,no,,no,,Attend Workshops or Conference,3
+2,Male,45,no,,no,,Woodworking Class,3
+2,Male,45,no,,no,,Pottery Class,4
+2,Male,45,no,,no,,Movie,4
+2,Male,45,no,,no,,Game night,2
+2,Male,45,no,,no,,Dance,1
+2,Male,45,no,,no,,Music,4
+2,Male,45,no,,no,,Yoga and Acrobatics,3
+2,Male,45,no,,no,,Community Gardening,2
+4,Male,23,yes,visual,yes,anxiety,Board games,2
+4,Male,23,yes,visual,yes,anxiety,Cooking,3
+4,Male,23,yes,visual,yes,anxiety,Walking,5
+4,Male,23,yes,visual,yes,anxiety,Reading,0
+4,Male,23,yes,visual,yes,anxiety,Puzzles,2
+4,Male,23,yes,visual,yes,anxiety,Craft,2
+4,Male,23,yes,visual,yes,anxiety,Running,3
+4,Male,23,yes,visual,yes,anxiety,Basketball,0
+4,Male,23,yes,visual,yes,anxiety,Football,0
+4,Male,23,yes,visual,yes,anxiety,Volleyball,0
+4,Male,23,yes,visual,yes,anxiety,Cricket,0
+4,Male,23,yes,visual,yes,anxiety,Hockey,0
+4,Male,23,yes,visual,yes,anxiety,Badminton,0
+4,Male,23,yes,visual,yes,anxiety,Tennis,0
+4,Male,23,yes,visual,yes,anxiety,Table Tennis,0
+7,Male,33,no,,yes,neurodevelopmental,Board games,3
+7,Male,33,no,,yes,neurodevelopmental,Cooking,4
+7,Male,33,no,,yes,neurodevelopmental,Walking,5
+7,Male,33,no,,yes,neurodevelopmental,Reading,5
+7,Male,33,no,,yes,neurodevelopmental,Puzzles,4
+7,Male,33,no,,yes,neurodevelopmental,Craft,4
+8,Female,23,yes,hearing,yes,anxiety,Board games,2
+8,Female,23,yes,hearing,yes,anxiety,Cooking,2
+8,Female,23,yes,hearing,yes,anxiety,Walking,4
+8,Female,23,yes,hearing,yes,anxiety,Reading,5
+8,Female,23,yes,hearing,yes,anxiety,Puzzles,4
+8,Female,23,yes,hearing,yes,anxiety,Craft,2
+8,Female,23,yes,hearing,yes,anxiety,Running,5
+8,Female,23,yes,hearing,yes,anxiety,Basketball,4
+8,Female,23,yes,hearing,yes,anxiety,Football,5
+8,Female,23,yes,hearing,yes,anxiety,Volleyball,5
+8,Female,23,yes,hearing,yes,anxiety,Cricket,3
+8,Female,23,yes,hearing,yes,anxiety,Hockey,2
+8,Female,23,yes,hearing,yes,anxiety,Badminton,3
+8,Female,23,yes,hearing,yes,anxiety,Tennis,5
+8,Female,23,yes,hearing,yes,anxiety,Table Tennis,4
+9,Male,77,yes,hearing,yes,depression,Board games,3
+9,Male,77,yes,hearing,yes,depression,Cooking,4
+9,Male,77,yes,hearing,yes,depression,Walking,3
+9,Male,77,yes,hearing,yes,depression,Reading,5
+9,Male,77,yes,hearing,yes,depression,Puzzles,4
+9,Male,77,yes,hearing,yes,depression,Craft,1
+9,Male,77,yes,hearing,yes,depression,Running,1
+9,Male,77,yes,hearing,yes,depression,Basketball,2
+9,Male,77,yes,hearing,yes,depression,Football,3
+9,Male,77,yes,hearing,yes,depression,Volleyball,4
+9,Male,77,yes,hearing,yes,depression,Cricket,4
+9,Male,77,yes,hearing,yes,depression,Hockey,3
+9,Male,77,yes,hearing,yes,depression,Badminton,4
+9,Male,77,yes,hearing,yes,depression,Tennis,5
+9,Male,77,yes,hearing,yes,depression,Table Tennis,2
+9,Male,77,yes,hearing,yes,depression,Attend Workshops or Conference,1
+9,Male,77,yes,hearing,yes,depression,Woodworking Class,4
+9,Male,77,yes,hearing,yes,depression,Pottery Class,3
+9,Male,77,yes,hearing,yes,depression,Movie,0
+9,Male,77,yes,hearing,yes,depression,Game night,0
+9,Male,77,yes,hearing,yes,depression,Dance,2
+9,Male,77,yes,hearing,yes,depression,Music,0
+9,Male,77,yes,hearing,yes,depression,Yoga and Acrobatics,4
+9,Male,77,yes,hearing,yes,depression,Community Gardening,3
+10,Male,19,no,,yes,anxiety,Board games,3
+10,Male,19,no,,yes,anxiety,Cooking,4
+10,Male,19,no,,yes,anxiety,Walking,5
+10,Male,19,no,,yes,anxiety,Reading,4
+10,Male,19,no,,yes,anxiety,Puzzles,3
+10,Male,19,no,,yes,anxiety,Craft,5
+10,Male,19,no,,yes,anxiety,Running,4
+10,Male,19,no,,yes,anxiety,Basketball,3
+10,Male,19,no,,yes,anxiety,Football,2
+10,Male,19,no,,yes,anxiety,Volleyball,4
+10,Male,19,no,,yes,anxiety,Cricket,2
+10,Male,19,no,,yes,anxiety,Hockey,5
+10,Male,19,no,,yes,anxiety,Badminton,4
+10,Male,19,no,,yes,anxiety,Tennis,2
+10,Male,19,no,,yes,anxiety,Table Tennis,5
+3,Male,37,yes,visual,yes,neurodevelopmental,Board games,4
+3,Male,37,yes,visual,yes,neurodevelopmental,Cooking,3
+3,Male,37,yes,visual,yes,neurodevelopmental,Walking,2
+3,Male,37,yes,visual,yes,neurodevelopmental,Reading,0
+3,Male,37,yes,visual,yes,neurodevelopmental,Puzzles,4
+3,Male,37,yes,visual,yes,neurodevelopmental,Craft,5
+5,Female,17,yes,visual,yes,depression,Board games,1
+5,Female,17,yes,visual,yes,depression,Cooking,2
+5,Female,17,yes,visual,yes,depression,Walking,4
+5,Female,17,yes,visual,yes,depression,Reading,0
+5,Female,17,yes,visual,yes,depression,Puzzles,1
+5,Female,17,yes,visual,yes,depression,Craft,2
+5,Female,17,yes,visual,yes,depression,Running,5
+5,Female,17,yes,visual,yes,depression,Basketball,0
+5,Female,17,yes,visual,yes,depression,Football,0
+5,Female,17,yes,visual,yes,depression,Volleyball,0
+5,Female,17,yes,visual,yes,depression,Cricket,0
+5,Female,17,yes,visual,yes,depression,Hockey,0
+5,Female,17,yes,visual,yes,depression,Badminton,0
+5,Female,17,yes,visual,yes,depression,Tennis,0
+5,Female,17,yes,visual,yes,depression,Table Tennis,0
+5,Female,17,yes,visual,yes,depression,Attend Workshops or Conference,4
+5,Female,17,yes,visual,yes,depression,Woodworking Class,3
+5,Female,17,yes,visual,yes,depression,Pottery Class,4
+5,Female,17,yes,visual,yes,depression,Movie,1
+5,Female,17,yes,visual,yes,depression,Game night,3
+5,Female,17,yes,visual,yes,depression,Dance,4
+5,Female,17,yes,visual,yes,depression,Music,5
+5,Female,17,yes,visual,yes,depression,Yoga and Acrobatics,4
+5,Female,17,yes,visual,yes,depression,Community Gardening,5
+6,Female,60,yes,hearing,yes,neurodevelopmental,Board games,3
+6,Female,60,yes,hearing,yes,neurodevelopmental,Cooking,4
+6,Female,60,yes,hearing,yes,neurodevelopmental,Walking,4
+6,Female,60,yes,hearing,yes,neurodevelopmental,Reading,3
+6,Female,60,yes,hearing,yes,neurodevelopmental,Puzzles,1
+6,Female,60,yes,hearing,yes,neurodevelopmental,Craft,4
+11,Male,13,yes,mobility,yes,depression,Board games,4
+11,Male,13,yes,mobility,yes,depression,Cooking,3
+11,Male,13,yes,mobility,yes,depression,Walking,1
+11,Male,13,yes,mobility,yes,depression,Reading,5
+11,Male,13,yes,mobility,yes,depression,Puzzles,4
+11,Male,13,yes,mobility,yes,depression,Craft,3
+11,Male,13,yes,mobility,yes,depression,Running,0
+11,Male,13,yes,mobility,yes,depression,Basketball,0
+11,Male,13,yes,mobility,yes,depression,Football,0
+11,Male,13,yes,mobility,yes,depression,Volleyball,0
+11,Male,13,yes,mobility,yes,depression,Cricket,1
+11,Male,13,yes,mobility,yes,depression,Hockey,0
+11,Male,13,yes,mobility,yes,depression,Badminton,1
+11,Male,13,yes,mobility,yes,depression,Tennis,0
+11,Male,13,yes,mobility,yes,depression,Table Tennis,2
+11,Male,13,yes,mobility,yes,depression,Attend Workshops or Conference,4
+11,Male,13,yes,mobility,yes,depression,Woodworking Class,4
+11,Male,13,yes,mobility,yes,depression,Pottery Class,5
+11,Male,13,yes,mobility,yes,depression,Movie,3
+11,Male,13,yes,mobility,yes,depression,Game night,2
+11,Male,13,yes,mobility,yes,depression,Dance,1
+11,Male,13,yes,mobility,yes,depression,Music,5
+11,Male,13,yes,mobility,yes,depression,Yoga and Acrobatics,0
+11,Male,13,yes,mobility,yes,depression,Community Gardening,4
+14,Non-binary,36,yes,mobility,yes,neurodevelopmental,Board games,5
+14,Non-binary,36,yes,mobility,yes,neurodevelopmental,Cooking,3
+14,Non-binary,36,yes,mobility,yes,neurodevelopmental,Walking,1
+14,Non-binary,36,yes,mobility,yes,neurodevelopmental,Reading,4
+14,Non-binary,36,yes,mobility,yes,neurodevelopmental,Puzzles,3
+14,Non-binary,36,yes,mobility,yes,neurodevelopmental,Craft,5
+12,Female,47,yes,mobility,yes,anxiety,Board games,1
+12,Female,47,yes,mobility,yes,anxiety,Cooking,4
+12,Female,47,yes,mobility,yes,anxiety,Walking,2
+12,Female,47,yes,mobility,yes,anxiety,Reading,5
+12,Female,47,yes,mobility,yes,anxiety,Puzzles,5
+12,Female,47,yes,mobility,yes,anxiety,Craft,3
+12,Female,47,yes,mobility,yes,anxiety,Running,0
+12,Female,47,yes,mobility,yes,anxiety,Basketball,0
+12,Female,47,yes,mobility,yes,anxiety,Football,0
+12,Female,47,yes,mobility,yes,anxiety,Volleyball,0
+12,Female,47,yes,mobility,yes,anxiety,Cricket,0
+12,Female,47,yes,mobility,yes,anxiety,Hockey,0
+12,Female,47,yes,mobility,yes,anxiety,Badminton,0
+12,Female,47,yes,mobility,yes,anxiety,Tennis,0
+12,Female,47,yes,mobility,yes,anxiety,Table Tennis,2
+15,Male,16,yes,mobility,no,,Board games,5
+15,Male,16,yes,mobility,no,,Cooking,4
+15,Male,16,yes,mobility,no,,Walking,0
+15,Male,16,yes,mobility,no,,Reading,3
+15,Male,16,yes,mobility,no,,Puzzles,2
+15,Male,16,yes,mobility,no,,Craft,2
+15,Male,16,yes,mobility,no,,Running,0
+15,Male,16,yes,mobility,no,,Basketball,0
+15,Male,16,yes,mobility,no,,Football,0
+15,Male,16,yes,mobility,no,,Volleyball,0
+15,Male,16,yes,mobility,no,,Cricket,0
+15,Male,16,yes,mobility,no,,Hockey,0
+15,Male,16,yes,mobility,no,,Badminton,0
+15,Male,16,yes,mobility,no,,Tennis,0
+15,Male,16,yes,mobility,no,,Table Tennis,0
+15,Male,16,yes,mobility,no,,Attend Workshops or Conference,3
+15,Male,16,yes,mobility,no,,Woodworking Class,4
+15,Male,16,yes,mobility,no,,Pottery Class,5
+15,Male,16,yes,mobility,no,,Movie,3
+15,Male,16,yes,mobility,no,,Game night,4
+15,Male,16,yes,mobility,no,,Dance,2
+15,Male,16,yes,mobility,no,,Music,0
+15,Male,16,yes,mobility,no,,Yoga and Acrobatics,1
+15,Male,16,yes,mobility,no,,Community Gardening,0
+13,Female,68,yes,hearing,no,,Board games,2
+13,Female,68,yes,hearing,no,,Cooking,3
+13,Female,68,yes,hearing,no,,Walking,5
+13,Female,68,yes,hearing,no,,Reading,4
+13,Female,68,yes,hearing,no,,Puzzles,3
+13,Female,68,yes,hearing,no,,Craft,4
+13,Female,68,yes,hearing,no,,Running,5
+13,Female,68,yes,hearing,no,,Basketball,4
+13,Female,68,yes,hearing,no,,Football,3
+13,Female,68,yes,hearing,no,,Volleyball,5
+13,Female,68,yes,hearing,no,,Cricket,3
+13,Female,68,yes,hearing,no,,Hockey,1
+13,Female,68,yes,hearing,no,,Badminton,3
+13,Female,68,yes,hearing,no,,Tennis,2
+13,Female,68,yes,hearing,no,,Table Tennis,3
+13,Female,68,yes,hearing,no,,Attend Workshops or Conference,0
+13,Female,68,yes,hearing,no,,Woodworking Class,3
+13,Female,68,yes,hearing,no,,Pottery Class,2
+13,Female,68,yes,hearing,no,,Movie,0
+13,Female,68,yes,hearing,no,,Game night,2
+13,Female,68,yes,hearing,no,,Dance,2
+13,Female,68,yes,hearing,no,,Music,0
+13,Female,68,yes,hearing,no,,Yoga and Acrobatics,5
+13,Female,68,yes,hearing,no,,Community Gardening,5
+16,Male,21,yes,visual,no,,Board games,2
+16,Male,21,yes,visual,no,,Cooking,1
+16,Male,21,yes,visual,no,,Walking,5
+16,Male,21,yes,visual,no,,Reading,0
+16,Male,21,yes,visual,no,,Puzzles,2
+16,Male,21,yes,visual,no,,Craft,3
+16,Male,21,yes,visual,no,,Running,3
+16,Male,21,yes,visual,no,,Basketball,0
+16,Male,21,yes,visual,no,,Football,0
+16,Male,21,yes,visual,no,,Volleyball,0
+16,Male,21,yes,visual,no,,Cricket,0
+16,Male,21,yes,visual,no,,Hockey,0
+16,Male,21,yes,visual,no,,Badminton,0
+16,Male,21,yes,visual,no,,Tennis,0
+16,Male,21,yes,visual,no,,Table Tennis,0
+16,Male,21,yes,visual,no,,Attend Workshops or Conference,3
+16,Male,21,yes,visual,no,,Woodworking Class,0
+16,Male,21,yes,visual,no,,Pottery Class,2
+16,Male,21,yes,visual,no,,Movie,0
+16,Male,21,yes,visual,no,,Game night,2
+16,Male,21,yes,visual,no,,Dance,3
+16,Male,21,yes,visual,no,,Music,4
+16,Male,21,yes,visual,no,,Yoga and Acrobatics,2
+16,Male,21,yes,visual,no,,Community Gardening,1
